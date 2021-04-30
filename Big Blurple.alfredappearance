@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#5B4AC7FF",
+        "font" : "Helvetica Neue",
+        "color" : "#FCFEFE00"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#362F7EFF",
+        "font" : "Helvetica Neue",
+        "color" : "#27225CFF"
+      },
+      "backgroundSelected" : "#302869FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#AFAAFFFF",
+        "font" : "Helvetica",
+        "color" : "#7B77B5FF"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 10,
+      "paddingVertical" : 10,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#302968FF",
+      "paddingHorizontal" : 10,
+      "spacing" : 16,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#131037FF",
+        "font" : "Helvetica",
+        "color" : "#AFAAFFFF"
+      },
+      "background" : "#1C1853FF",
+      "roundness" : 10,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#1D1852FF",
+      "paddingHorizontal" : 20,
+      "width" : 440,
+      "borderPadding" : 0,
+      "borderColor" : "#000000FF",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 20
+    },
+    "credit" : "dribbble.com\/yes-i-am",
+    "separator" : {
+      "color" : "#D4D4D400",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#605B99FF",
+      "thickness" : 2
+    },
+    "name" : "Big Blurple"
+  }
+}
